@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+  font-family: 'Nanum GarMaesGeur';
+  background-color: #FFF7D3;
+}
+
+.indicator {
+  font-size: 24px;
+}
+
+div.titleBar {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: Amarillo;
+}
+
+hr {
+  width: 60%;
+  height: 1px;
+  border-top: 1px solid black;
+  border-left: 0;
+  border-bottom: 0;
+  border-right: 0;
+}
+
+div.mainBar {
+  display: inline-block;
+  width: 55%;
+}
+
+header.mainHeader {
+  height: 36px;
+}
+
+article {
+  min-height: 144px;
+}
+
+#addBtn {
+  background-color: #FFF7D3;
+  border: 1px solid black;
+  border-radius: 12px;
+}
+
+li.list {}
+
+span#dateIND {
+  float: right;
+}
+
+div.listBox {
+  display: block;
+}
